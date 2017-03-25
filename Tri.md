@@ -2,7 +2,7 @@ Yeah this is fun
 
 more fun!
 fun
-
+----------------------------------------------------
 git status -s
 
 git diff
@@ -18,3 +18,4 @@ git add <file>
 git rm  <file>
 
 fit rm --cached <File>  //Keep the file
+-----------------------------------------------------
