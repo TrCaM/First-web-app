@@ -1,3 +1,8 @@
 This is another file
 
 This is another line
+<<<<<<< HEAD
+=======
+
+BOO!
+>>>>>>> parent of 1f9c223... 'ok'
