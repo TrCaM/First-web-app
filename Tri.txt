@@ -2,3 +2,15 @@ Yeah this is fun
 
 more fun!
 fun
+
+git status -s
+
+git diff
+
+git diff --staged
+
+git commit -a -m "message"
+
+git push
+
+git add <file>
