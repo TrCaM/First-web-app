@@ -19,6 +19,8 @@ git add <file>
 git rm  <file>
 
 git rm --cached <File>  //Keep the file
+
+git push origin --delete <branch_name>
 ```
 
 [My page] (https://github.com/TrCaM)
